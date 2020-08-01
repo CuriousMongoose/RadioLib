@@ -1,4 +1,6 @@
-# RadioLib [![Build Status](https://travis-ci.org/jgromes/RadioLib.svg?branch=master)](https://travis-ci.org/jgromes/RadioLib)
+# RadioLib-particle[![Build Status](https://travis-ci.org/jgromes/RadioLib.svg?branch=master)](https://travis-ci.org/jgromes/RadioLib)
+
+Forked to use with [Particle](https://www.particle.io/) devices
 
 ### _One radio library to rule them all!_
 
